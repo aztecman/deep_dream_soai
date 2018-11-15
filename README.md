@@ -1,7 +1,7 @@
 # deep_dream_soai
 This is a fork of Siraj Raval's Deep Dream implementation. https://github.com/llSourcell/deep_dream_challenge
 
-## Dependencies:
+### Dependencies:
 
 numpy (http://www.numpy.org/)
 
